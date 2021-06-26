@@ -1,0 +1,43 @@
+!-- @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');--!
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.font-first {
+    display:inline-flex;
+    margin: 6px;
+}
+h2 {
+    margin-top: 54px;
+    margin-left: 43px;
+    margin-right: 595px;
+    margin-bottom: 18px;
+}
+.font-image1 {
+    width: 264px;
+    height: 205px;
+    margin-top: 20px;
+    margin-left: 43px;
+    margin-right: 38px;
+    margin-bottom: 301px;
+    display: inline-block;
+}
+.paragraph1 {
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 18px;
+}
+.paragraph2 {
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    color:black;
+}
+.paragraph-3 {
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 25px;
+}
+.font-second {
+display: inline-flex
+}
+.font-image2 {
+    width: 270px;
+    height: 209px;
+    margin-left: 43px;
+    margin-right: 38px;
+    margin-top: 18px;
+}
